@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+print("Hello World!!!")
 import uvicorn
 from pydantic import BaseModel
 
